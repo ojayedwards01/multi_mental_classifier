@@ -19,5 +19,5 @@ pip install -r requirements.txt
 
 ## How to Reproduce the Results
 
-1.  Open the `mbd-research-mayv7.ipynb` notebook in a Jupyter environment.
+1.  Open the `mental_health_classifier.ipynb` notebook in a Jupyter environment.
 2.  Run the cells sequentially from top to bottom. The notebook will handle NLTK downloads, data augmentation, model training, and will generate the figures presented in the paper.
