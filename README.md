@@ -2,7 +2,7 @@
 
 This repository contains the code and resources for the paper "A Multiclass Machine Learning Approach for Mental Health and Cyberbullying Identification on Social Media".
 
-The entire methodology, from data preprocessing to model training and evaluation, is contained within the main Jupyter Notebook: `mbd-research-mayv7.ipynb`.
+The entire methodology, from data preprocessing to model training and evaluation, is contained within the main Jupyter Notebook: `mental_health_classifier.ipynb`.
 
 ## Installation
 
